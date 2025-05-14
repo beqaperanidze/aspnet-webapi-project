@@ -1,0 +1,6 @@
+@SimpleAspnetProject_HostAddress = http://localhost:5032
+
+GET {{SimpleAspnetProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

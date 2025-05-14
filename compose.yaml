@@ -1,0 +1,7 @@
+﻿services:
+  simpleaspnetproject:
+    image: simpleaspnetproject
+    build:
+      context: .
+      dockerfile: SimpleAspnetProject/Dockerfile
+
